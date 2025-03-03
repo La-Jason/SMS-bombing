@@ -23,5 +23,6 @@ https://t.me/nb3344bot?start=5159657154
 https://t.me/jdHappybot?start=5159657154
 
 ## 闪电侠轰炸机器人
-闪电侠持久轰炸，老牌轰炸机🌟<br>
-专属邀请链接：https://t.me/sdxhzbot?start=5159657154
+持久轰炸，你我都不是闪电侠<br>
+老牌轰炸机🌟的专属邀请链接：<br>
+https://t.me/sdxhzbot?start=5159657154
