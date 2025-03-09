@@ -1,7 +1,6 @@
 # SMS-bombing
 
 # 搜集Telegram上的免费短信轰炸机器人
-亲测都能使用
 
 ## 小卡拉米的轰炸机器人
 🌟 您的邀请链接已生成！<br>
@@ -27,3 +26,7 @@ https://t.me/jdHappybot?start=5159657154
 持久轰炸，你我都不是闪电侠<br>
 老牌轰炸机🌟的专属邀请链接：<br>
 https://t.me/sdxhzbot?start=5159657154
+
+## 社工库机器人
+免费社工库,查档开户
+https://t.me/ABobbieBot?start=NTE1OTY1NzE1NA==
