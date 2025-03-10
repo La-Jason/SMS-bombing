@@ -27,6 +27,10 @@ https://t.me/jdHappybot?start=5159657154
 老牌轰炸机🌟的专属邀请链接：<br>
 https://t.me/sdxhzbot?start=5159657154
 
+## 网页版轰炸机器人
+网页版🌟的专属邀请链接：<br>
+https://wy.zjzj123.top/index.php?ref=199
+
 ## 社工库机器人
 免费社工库,查档开户<br>
 https://t.me/ABobbieBot?start=NTE1OTY1NzE1NA==
