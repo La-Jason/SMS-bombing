@@ -3,7 +3,6 @@
 # 搜集Telegram上的免费短信轰炸机器人
 
 ## 小卡拉米的轰炸机器人
-🌟 您的邀请链接已生成！<br>
 👉 您的专属邀请链接为：<br>
 https://t.me/xiaokalamimi_bot?start=5159657154
 
