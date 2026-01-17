@@ -26,10 +26,6 @@ https://t.me/xdhz88bot?start=8092055376
 老牌轰炸机🌟的专属邀请链接：<br>
 https://t.me/nb3344bot?start=8092055376
 
-## 网页版轰炸机器人
-网页版🌟的专属邀请链接：<br>
-https://t.me/lmdxhz_bot?start=FjRgraJQSY
-
 ## 轰炸机器人
 持久轰炸，你我都不是闪电侠<br>
 https://t.me/hongzhaji365_bot?start=8092055376
